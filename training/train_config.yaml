@@ -1,0 +1,4 @@
+model_name: liuhaotian/llava-v1.5-7b
+epochs: 1
+batch_size: 4
+lr: 2e-5
